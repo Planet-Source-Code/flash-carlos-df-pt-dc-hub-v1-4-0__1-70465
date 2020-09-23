@@ -1,0 +1,8 @@
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\bin\DevNET.dll
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\bin\DevNET.xml
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\bin\DevNET.tlb
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\obj\Release\ResolveAssemblyReference.cache
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\obj\Release\frmMain.resources
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\obj\Release\DevNET.vbproj.GenerateResource.Cache
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\obj\Release\DevNET.dll
+E:\_=SVN PTDCH=_\Dev Plugins\DevNET VB.NET 2005\obj\Release\DevNET.xml
